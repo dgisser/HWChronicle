@@ -1,0 +1,3 @@
+PODS_SHAREKIT_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/ShareKit/Frameworks" "$(PODS_ROOT)/ShareKit/Frameworks"
+PODS_SHAREKIT_HEADER_SEARCH_PATHS = "${PODS_ROOT}/ShareKit/Frameworks/GoogleOpenSource.framework/Versions/A/Headers"
+PODS_SHAREKIT_OTHER_LDFLAGS = -framework AVFoundation -framework AddressBook -framework AssetsLibrary -framework CoreGraphics -framework CoreLocation -framework CoreMedia -framework CoreMotion -framework CoreText -framework GoogleOpenSource -framework GooglePlus -framework MediaPlayer -framework MessageUI -framework MobileCoreServices -framework Security -framework Social -framework SystemConfiguration -framework Twitter

@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+
+pod "AFNetworking", :head
+pod 'PKRevealController', :head
+pod 'MWFeedParser/NSString+HTML', :head
